@@ -14,17 +14,25 @@
 
 # Exploratory Data Analysis
   Reading Data
+  
   Exploring Data -Target Column -Features Selection
 # Cleaning
-  Missing Values
+  Missing Values 
+  
   Formatting Numerical Data
+  
   Creating dummy variables for Categorical
 # Modeling
   Selecting performance metrics
+  
   SMOT for class imbalance
+  
   Logistic Regression
+  
   SVM with PCA
+  
   Random Forest
+  
   XG Boost
 # Conclusion
 Next Steps
