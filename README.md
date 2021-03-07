@@ -35,7 +35,7 @@
   
   XG Boost
 # Conclusion
-Next Steps
+# Next Steps
 
 # Performance Metric Selection
 The model will be used to determine who should be approved for a loan and who shouldn’t, denying the loan to a client who will end up paying in full (false positives) represents a loss, but because interest is usually only a portion of principal the company will most likely be more comfortable not taking the chance when the risk is not to get reimbursed at all and lose the entire principal which represents a higher amount. Thus the main concern here is to avoid approving somebody who won't be able to repay or in other words avoid false negatives. This is achieved by a model with a high recall rate. Recall will be the performance evaluation metric of choice for our model. We also need to evaluate TPR to make sure we are not declined too many qualified borrowers.
